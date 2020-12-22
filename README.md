@@ -1,1 +1,30 @@
-# Homework_Week5
+  This Week we were tasked with creating a Day Planner. It was supposed to display hour based blocks during the traditional working hours of 9a-5p. 
+In addition, it was suppposed to save the changes that the user made to the website, to persist after refresh.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
